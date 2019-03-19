@@ -1,7 +1,11 @@
-# todo-app
+# Ember To Do List :memo:
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a simple CRUD Ember application that uses:
+* [ember-cli-mirage](https://github.com/samselikoff/ember-cli-mirage)
+* [liquid-fire](https://github.com/ember-animation/liquid-fire)
+
+This repo is an adaptation of the following tutorial [here](https://github.com/ssriera/ember-to-do-list/wiki/Tutorial).
+
 
 ## Prerequisites
 
