@@ -5,7 +5,7 @@ This is a simple CRUD Ember application that uses:
 * [liquid-fire](https://github.com/ember-animation/liquid-fire)
 
 This repo is an adaptation of the following tutorial [here](https://github.com/ssriera/ember-to-do-list/wiki/Tutorial).
-
+![](http://g.recordit.co/kAgA95QFAO.gif)
 
 ## Prerequisites
 
