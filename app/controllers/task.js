@@ -38,7 +38,7 @@ export default Controller.extend({
         this.set('current', 'incomplete');
       },
       editTask(task) {
-        //this.transitionToRoute('edit', task.get('id'));
+        this.transitionToRoute('task.edit', task.get('id'));
       }
     }
 });
